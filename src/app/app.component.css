@@ -1,0 +1,19 @@
+div {
+    width: 100%;
+
+    height: 50px;
+    text-align: center;
+}
+
+div a {
+    text-decoration: none;
+    color: #20930c;
+    margin-right: 30px;
+    font-size: 40px;
+}
+
+
+
+main {
+    text-align: center;
+}
